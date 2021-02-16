@@ -1,2 +1,2 @@
 # hallo-github
-erstes Projekt
+erstes Projekt, super cool!
